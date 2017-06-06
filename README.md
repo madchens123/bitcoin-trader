@@ -1,0 +1,2 @@
+# bitcoin-trader
+testing bot
